@@ -1,0 +1,5 @@
+<project name="vng-ost-bi-platform-engine-security" basedir="." default="default">
+<!-- Import the subfloor-pkg.xml file which contains all the default ant targets -->
+  <import file="build-res/subfloor-pkg.xml" />
+
+</project>
